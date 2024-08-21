@@ -7,7 +7,7 @@
 A Simplified notebook for Smoothed Energy Guidance in Stable Diffusion 2.1 base
 
 We put together a notebook implementation and explanation of Smoothed Energy Guidance based (SEG) of this paper https://arxiv.org/pdf/2408.00760
-A query blurring method that yields significant improvements to the sampling process of SD 2.1 base and it's results in Vanillia and Classfier Free Guidance sampling.
+A query blurring method that yields significant improvements to the sampling process of SD 2.1 base and it's results in Vanilla and Classifier Free Guidance sampling.
 
 | **Smoothed Energy Guidance for SD2.1 base** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableEnergy/blob/main/SD_2_1_Smoothed_Energy_Guidance.ipynb) |
 |----------------------|----------------------|
