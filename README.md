@@ -16,5 +16,3 @@ A query blurring method that yields significant improvements to the sampling pro
 Some good results:
 
 ![image](https://github.com/user-attachments/assets/c5a9602f-b09d-4f36-94a4-3fd70462688a)
-
-![image](https://github.com/user-attachments/assets/b2bad89e-0664-46cf-a59b-a30422df3fea)
