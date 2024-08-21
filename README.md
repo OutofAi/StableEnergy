@@ -11,3 +11,8 @@ A query blurring method that yields significant improvements to the sampling pro
 
 | **Smooth Energy Guidance for SD2.1 base** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableEnergy/blob/main/SD_2_1_Smoothed_Energy_Guidance.ipynb) |
 |----------------------|----------------------|
+
+
+Some good results:
+
+![image](https://github.com/user-attachments/assets/c5a9602f-b09d-4f36-94a4-3fd70462688a)
